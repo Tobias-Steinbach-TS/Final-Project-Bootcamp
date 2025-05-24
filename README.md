@@ -2,7 +2,7 @@
 
 ## Summary
 Final Project of my Data-Analysis Bootcamp at WBS Coding School 
-Interactive Dashboard in Looker Studio as a data visualization project
+Interactive Dashboard in Looker Studio as a data visualization project (link in the About section)
 
 ## Languages and Libraries Used
 Imported a fictitious Dataset from Kaggle in Big Query and connected the processed data to Looker Studio.
